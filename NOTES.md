@@ -1,6 +1,4 @@
 layout: page
-title: Bioinformatics
-permalink: /content/
 
 ## Homework for week1
 #### 课堂笔记
