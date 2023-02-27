@@ -1,4 +1,5 @@
 layout: page
+title: Bioinformatics
 
 ## Homework for week1
 #### 课堂笔记
