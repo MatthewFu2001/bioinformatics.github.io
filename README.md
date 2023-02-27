@@ -12,8 +12,8 @@
 >> + Nanotech
 >> + Genetics
 
-> **Gene & Genome**
-> Gene: 携带遗传信息的基本物质序列单位
+> **Gene & Genome** </br>
+> Gene: 携带遗传信息的基本物质序列单位 </br>
 > Genome: 在生物学中指某一特定物种细胞内或病毒粒子内的一整套遗传物质
 >> Messenger RNA -> Gene ->> Genome
 > + 人类大约有21000个基因
